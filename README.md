@@ -1,2 +1,2 @@
-# <font color=red>numpy basic</font>
+# <font color=red>NumPy basic</font>
 >**basic information about Numpy**
