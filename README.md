@@ -1,2 +1,2 @@
-# numpy-basic-
-basic information about Numpy
+# <font color=red>numpy basic<\font>
+**basic information about Numpy**
